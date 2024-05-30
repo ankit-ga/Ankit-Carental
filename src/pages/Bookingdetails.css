@@ -1,0 +1,109 @@
+.personal{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.wrapper_personal{
+  height:auto;
+  width:900px;
+  border:2px solid rgba(18, 242, 6, 0.655);
+  margin:5% 20%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  color:white;
+  background-color: rgba(18, 242, 6, 0.655);
+}
+
+.inputlabel{
+  font-size: 20px; 
+    margin: 0;
+}
+
+.inputarea{
+  margin:0;
+  font-size: 15px;
+  height: 25px;
+  width:290px;
+}
+.formtextarea{
+  margin:0;
+  font-size: 15px;
+  border:2px solid black;
+  width:290px;
+  height: 80px;
+
+}
+.detailsbtn{
+  height:40px;
+  width:120px;
+  margin-top:30px;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.detailsbtn:hover{
+  background-color: rgba(0, 0, 0, 0.585);
+  color:white;
+  height: 50px;
+  width:150px;
+}
+
+.formpara{
+  color: red
+}
+
+.mes{
+  color:red;
+  font-size: 30px;
+}
+.divider{
+  margin-top: 70px;
+  border-bottom:2px solid white;
+}
+.booking_details{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  margin-top: 70px;
+}
+.datepick{
+  display:flex;
+  width:50%;
+  margin-left:25%;
+  font-size: large;
+
+}
+
+.inlabel{
+  font-size: large;
+  margin-left:-2%;
+  margin-right:5px
+}
+.formtxtarea{
+  height:70px;
+  width:270px
+}
+
+.addressed{
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.doc{
+  font-size: medium;
+  border-radius: 5px;
+cursor: pointer;
+}
+
+
+.dropdownmenu{
+  height:30px;
+  font-size: medium;
+  border-radius: 5px;
+}
+
+.disabled_option{
+  background-color: rgba(0, 0, 0, 0.574);
+  color:white;
+}

@@ -1,0 +1,55 @@
+.main{
+    margin:0;
+    padding:0;
+    background-color: rgba(18, 242, 6, 0.655);
+    width:auto;
+    height:auto
+}
+.inner{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    margin-right: 10%;
+    color:black;   
+}
+.imag{   
+    margin-top:25px;
+    margin-left: 20px;
+    height:250px;
+    width:350px;
+    border-radius: 12%;
+}
+ul{
+    list-style: none;
+}
+.services,.about,.follow{
+    margin-top: 5%;
+}
+.follow{
+    color: black;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+.icon{
+    display:flex;
+    justify-content: space-between;
+    height: auto;
+    width:140px;
+    font-size: large;;
+}
+.faq,.terms,.gety{
+    color:black;
+}
+@media only screen and (max-width:749px){
+.inner{
+    display: block;
+    width:auto
+}
+.services,.about,.follow{
+    margin-left: 25%;
+}
+.follow{
+    margin-left: 33%;
+    }
+}

@@ -1,0 +1,33 @@
+.login{
+    height:550px;
+    width:400px;
+    border:2px solid rgba(18, 242, 6, 0.655);
+    margin:5% 35%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    color:white;
+    background-color: rgba(18, 242, 6, 0.655);
+}
+
+.log{
+    font-size: 50px;
+}
+
+.itm{
+   font-size: 20px; 
+}
+
+.inp{
+    font-size: 15px;
+    height: 25px;
+    width:250px;
+}
+.butn{
+    height:40px;
+    width:120px;
+    margin-top:30px;
+    font-size: 17px;
+    border-radius: 5px;
+  }

@@ -1,0 +1,40 @@
+.mine{
+    margin:20px;
+    padding:0;
+    border:1px solid rgba(18, 242, 6, 0.562);
+    border-radius: 5%;
+    background-color: rgba(18, 242, 6, 0.548);
+    height: 250px;
+    width:250px;
+}
+.mine:hover{
+    box-shadow: 20px 20px 10px rgba(18, 242, 6, 0.292);
+    height: 270px;
+    width:270px;
+    background-color: rgba(18, 242, 6, 0.331);   
+}
+.image{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.pic{
+    margin-top: 20px;
+    border-radius: 50%;
+    height: 100px;
+    width:100px;
+}
+.cont{
+    color:white;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    width:200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: large;
+}
+
+.cont:hover{
+    color:black;
+}

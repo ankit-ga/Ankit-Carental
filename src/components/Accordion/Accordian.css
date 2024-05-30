@@ -1,0 +1,36 @@
+.accord{
+    margin:100px 200px;
+    border:1px solid rgba(18, 242, 6, 0.655);
+    padding:80px;
+    border-radius: 10px;
+    background-color: rgba(18, 242, 6, 0.655);
+}
+.ques{
+    display:flex;
+    height: auto;
+    width:auto;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.symbol{
+    cursor:pointer;
+}
+.answer{
+    
+    height: auto;
+    width:auto;
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: -10px;
+    color:white
+   
+}
+.faqhead{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}

@@ -1,0 +1,61 @@
+.fileupload{
+    height: auto;
+    width: 300px;
+    margin:100px 500px;
+    border: 1px rgba(18, 242, 6, 0.655) solid;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(18, 242, 6, 0.655);
+}
+
+.inputfile{
+    margin-top: 25px;
+   color:white;
+   height:30px;
+   font-size:large;
+   margin-left:3%;
+}
+
+.inputpara{
+    font-size: large;
+    color: white;
+}
+
+.inpbtn{
+    height: 30px;
+    width:auto;
+    border-radius: 5px;
+    margin-left:110px;
+    font-size: medium;
+}
+.inptn{
+    height: 30px;
+    width:auto;
+    border-radius: 5px;
+    margin-left:80px;
+    font-size: medium;
+}
+.inpbtn:hover{
+    height: 40px;
+    width:110px;
+    background-color: rgba(0, 0, 0, 0.63);
+    color:white;
+}
+.inptn:hover{
+    height: 40px;
+    width:150px;
+    background-color: rgba(0, 0, 0, 0.63);
+    color:white;
+}
+
+.contain_img{
+    height: auto;
+    width:600px;
+    margin-left:25%;
+
+}
+.imgmap{
+    height: 400px;
+    width:600px;
+
+}
